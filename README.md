@@ -12,7 +12,7 @@ Requirements -> Need to have data.dat file in the same location as main.py
 * person5
 ...
 
-Here person1, person2, etc. are the names of people participating in secret santa. The exclude1, exclude2, ... are people that need to be excluded from that specific persons line when considering secret santa matches.
+Here person1, person2, etc. are the names of people participating in secret santa. The exclude1, exclude2, ... are people that need to be excluded from that specific persons line when considering secret santa matches. It could be as simple as the were secret santas to eachother past year, they live together or whatnot.
 
 **Output** will be saved in **output.out** containing a list of matches:
 
